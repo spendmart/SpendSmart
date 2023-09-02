@@ -1,6 +1,6 @@
 databases:
   - name: spendsmart
-    databaseName: spendsmart_30b0
+    databaseName: spendsmart_30b0_2avx
     user: spendsmart_user
 
 services:
